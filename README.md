@@ -18,10 +18,15 @@ It’s built for educational red-team labs and legal testing environments.
 
 Main files:  
 
-- `pwn.py` — core script  
+- `pwn.py` — main script  
 - `install.sh` — quick installer for requirements  
 
 ---
+
+<img src="screenshots/zimpwn-1.png" width="600">
+<img src="screenshots/zimpwn-2.png" width="600">
+<img src="screenshots/zimpwn-3.png" width="600">
+<img src="screenshots/zimpwn-4.png" width="600">
 
 ## How to install
 
@@ -36,13 +41,6 @@ chmod +x install.sh
 
 # Run the script
 python3 pwn.py
-
-<img src="screenshots/zimpwn-1.png" width="600">
-<img src="screenshots/zimpwn-2.png" width="600">
-<img src="screenshots/zimpwn-3.png" width="600">
-<img src="screenshots/zimpwn-4.png" width="600">
-
-
  
 👤 Author
 
