@@ -37,10 +37,13 @@ chmod +x install.sh
 # Run the script
 python3 pwn.py
 
-📸 Screenshot
+<img src="screenshots/zimpwn-1.png" width="600">
+<img src="screenshots/zimpwn-2.png" width="600">
+<img src="screenshots/zimpwn-3.png" width="600">
+<img src="screenshots/zimpwn-4.png" width="600">
+
 
  
-
 👤 Author
 
     Mohammad Zim (MrDestroyer)
