@@ -43,16 +43,12 @@ chmod +x install.sh
 python3 pwn.py
  
 👤 Author
-
-    Mohammad Zim (MrDestroyer)
-
-    GitHub: github.com/Mr-Destroyer
-
-TryHackMe: tryhackme.com/p/MohammadZim
-
-YouTube: @Study_Hard69
+[*] Mohammad Zim (MrDestroyer)
+[*] GitHub: github.com/Mr-Destroyer
+[*] TryHackMe: tryhackme.com/p/MohammadZim
+   YouTube: @Study_Hard69
 ⚠️ Legal Disclaimer
 
 This project is for educational and authorized security testing only.
 Any misuse of this tool is strictly discouraged. The author is not responsible for any damages or misuse.
-<p align="center">💻 Built with ❤️ by <a href="https://github.com/Mr-Destroyer">Mohammad Zim</a></p> ```
+ ```
