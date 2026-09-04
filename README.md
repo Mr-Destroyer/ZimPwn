@@ -13,7 +13,7 @@
 
 ## 🖥️ About  
 
-`ZimPwn` is a proof-of-concept / penetration-testing helper script written in Python.  
+`ZimPwn` is a proof-of-concept / penetration-testing script written in Python.  
 It’s built for educational red-team labs and legal testing environments.  
 
 Main files:  
