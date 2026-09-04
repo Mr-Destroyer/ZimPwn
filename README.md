@@ -23,10 +23,30 @@ Main files:
 
 ---
 
-<img src="screenshots/zimpwn-1.png" width="600">
-<img src="screenshots/zimpwn-2.png" width="600">
-<img src="screenshots/zimpwn-3.png" width="600">
-<img src="screenshots/zimpwn-4.png" width="600">
+## 🎥 Proof of Concept (PoC)
+
+Watch ZimPwn in action:
+
+<table>
+  <tr>
+    <th>Demo A — Main usage</th>
+    <th>Demo B — Quick showcase</th>
+  </tr>
+  <tr>
+    <td>
+      <video src="poc/screenrecording-2026-09-05_02-32-26.mp4" width="600" controls>
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td>
+      <video src="poc/screenrecording-2026-09-05_02-33-13.mp4" width="600" controls>
+        Your browser does not support the video tag.
+      </video>
+    </td>
+  </tr>
+</table>
+
+> If the videos don't render inline, download them directly from the [`poc/`](poc) folder.
 
 ## How to install
 
