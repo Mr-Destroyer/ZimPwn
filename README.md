@@ -28,14 +28,20 @@ Main files:
 Watch ZimPwn in action:
 
 ### Demo 1
-<video src="poc/screenrecording-2026-09-05_02-32-26.mp4" width="100%" controls></video>
+<video width="100%" controls>
+  <source src="https://raw.githubusercontent.com/Mr-Destroyer/ZimPwn/main/poc/screenrecording-2026-09-05_02-32-26.mp4" type="video/mp4">
+  Your browser does not support the video tag. Watch it here: <a href="https://github.com/Mr-Destroyer/ZimPwn/blob/main/poc/screenrecording-2026-09-05_02-32-26.mp4">Demo 1</a>
+</video>
 
 ### Demo 2
-<video src="poc/screenrecording-2026-09-05_02-33-13.mp4" width="100%" controls></video>
+<video width="100%" controls>
+  <source src="https://raw.githubusercontent.com/Mr-Destroyer/ZimPwn/main/poc/screenrecording-2026-09-05_02-33-13.mp4" type="video/mp4">
+  Your browser does not support the video tag. Watch it here: <a href="https://github.com/Mr-Destroyer/ZimPwn/blob/main/poc/screenrecording-2026-09-05_02-33-13.mp4">Demo 2</a>
+</video>
 
 > If the videos don't play in your viewer, open them directly:
-> - [Demo 1](poc/screenrecording-2026-09-05_02-32-26.mp4)
-> - [Demo 2](poc/screenrecording-2026-09-05_02-33-13.mp4)
+> - [Demo 1](https://github.com/Mr-Destroyer/ZimPwn/blob/main/poc/screenrecording-2026-09-05_02-32-26.mp4)
+> - [Demo 2](https://github.com/Mr-Destroyer/ZimPwn/blob/main/poc/screenrecording-2026-09-05_02-33-13.mp4)
 
 ---
 
