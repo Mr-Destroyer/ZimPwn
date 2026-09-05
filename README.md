@@ -27,26 +27,18 @@ Main files:
 
 Watch ZimPwn in action:
 
-<table>
-  <tr>
-    <th>Demo A — Main usage</th>
-    <th>Demo B — Quick showcase</th>
-  </tr>
-  <tr>
-    <td>
-      <video src="poc/screenrecording-2026-09-05_02-32-26.mp4" width="600" controls>
-        Your browser does not support the video tag.
-      </video>
-    </td>
-    <td>
-      <video src="poc/screenrecording-2026-09-05_02-33-13.mp4" width="600" controls>
-        Your browser does not support the video tag.
-      </video>
-    </td>
-  </tr>
-</table>
+### Demo 1
+<video src="poc/screenrecording-2026-09-05_02-32-26.mp4" width="100%" controls></video>
 
-> If the videos don't render inline, download them directly from the [`poc/`](poc) folder.
+### Demo 2
+<video src="poc/screenrecording-2026-09-05_02-33-13.mp4" width="100%" controls></video>
+
+> If the videos don't play in your viewer, open them directly:
+> - [Demo 1](poc/screenrecording-2026-09-05_02-32-26.mp4)
+> - [Demo 2](poc/screenrecording-2026-09-05_02-33-13.mp4)
+
+---
+
 
 ## How to install
 
@@ -61,14 +53,18 @@ chmod +x install.sh
 
 # Run the script
 python3 pwn.py
- 
-👤 Author
-[*] Mohammad Zim (MrDestroyer)
-[*] GitHub: github.com/Mr-Destroyer
-[*] TryHackMe: tryhackme.com/p/MohammadZim
-   YouTube: @Study_Hard69
-⚠️ Legal Disclaimer
+```
+
+---
+
+## 👤 Author
+
+- [*] Mohammad Zim (MrDestroyer)
+- [*] GitHub: github.com/Mr-Destroyer
+- [*] TryHackMe: tryhackme.com/p/MohammadZim
+- YouTube: @Study_Hard69
+
+## ⚠️ Legal Disclaimer
 
 This project is for educational and authorized security testing only.
 Any misuse of this tool is strictly discouraged. The author is not responsible for any damages or misuse.
- ```
